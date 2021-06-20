@@ -1,0 +1,71 @@
+
+\documentclass[12pt]{article}
+
+\usepackage[sfdefault]{roboto}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{amsmath}
+\usepackage{algorithm2e}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{wrapfig}
+
+\usepackage{enumitem}
+
+\usepackage{titlesec}
+%%\titlespacing\section{0pt}{0pt}{0pt} 
+\titlespacing\subsection{0pt}{0pt}{0pt}
+%%\titlespacing\subsubsection{0pt}{0pt}{0pt}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{endnotes}
+
+\let\footnote=\endnote
+
+\begin{document}
+
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{HDCC}
+\end{center}
+
+\begin{center}
+    \line(1,0){500}
+\end{center}
+
+\section*{Turnout}
+
+
+\begin{itemize}[noitemsep]
+    \item{voters that meet \textit{any} combination of support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score greater than 75 and turnout\footnote{using the 2020 Target Smart Turnout, and 2020 Clarity Turnout Score} score between 30 and 70}
+
+    \item{voters with no support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score, have voted in at least one recent election\footnote{using the 2020 Target Smart Turnout, and 2020 Clarity Turnout Score}, and are not white or registered Republicans}
+
+    \item{voters with no turnout\footnote{using the 2020 Target Smart Turnout, and 2020 Clarity Turnout Score} score, support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score over 80 and have voted in no more than three recent elections\footnote{General 2016, General 2017, General 2018, General 2019} }
+
+    \item{voters with a registration date after 1 January 2016, and are \textit{not} registered Republicans}
+
+\end{itemize}
+
+The master target is then split in to three tiers. These tiers can generally be described as: \\
+
+\subsection*{Tier 1}
+
+Voters meeting any combination of support score greater than 75, and turnout score greater than 50 and 70. This tier additionally includes all other master target subgroups. The remaining tiers \textit{only} parse out additional subsets of combinations of support and turnout scores.\\
+
+\subsection*{Tier 2}
+Voters meeting any combination of support score greater than 75, and turnout score greater than 30 and less than 50.\\
+
+\subsection*{Tier 3}
+Voters meeting any combination of support score greater than 75, and turnout score less than 30.\\
+
+This tier is additionally used as a bucket to add custom voter subsets should a district require additional targeting work.
+
+\newpage
+\theendnotes
+
+\end{document}

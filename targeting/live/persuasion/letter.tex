@@ -1,0 +1,76 @@
+
+\documentclass[12pt]{article}
+
+\usepackage[sfdefault]{roboto}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{amsmath}
+\usepackage{algorithm2e}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{wrapfig}
+
+\usepackage{enumitem}
+
+\usepackage{titlesec}
+%%\titlespacing\section{0pt}{0pt}{0pt} 
+\titlespacing\subsection{0pt}{0pt}{0pt}
+%%\titlespacing\subsubsection{0pt}{0pt}{0pt}
+
+\setlength{\parindent}{0pt}
+
+\usepackage{endnotes}
+
+\let\footnote=\endnote
+
+\begin{document}
+
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{HDCC}
+\end{center}
+
+\begin{center}
+    \line(1,0){500}
+\end{center}
+
+\section*{Persuasion}
+
+Composing the master persuasion target for the cycle are voters who meet the following specifications: 
+
+\begin{itemize}[noitemsep]
+    \item{voters meeting \textit{any} combination of support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score}scoring between 30 and 75 \textit{and} turnout\footnote{using the 2020 Target Smart Turnout, and 2020 Clarity Turnout Score} scoring greater than 70}
+
+    \item{voters with a college graduate\footnote{2020 DNC College Graduate Score} score greater than 75, a support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score of greater than 50, a voting behavior of having voted in at least two elections\footnote{General 2016, General 2017, General 2018, General 2019}, and registration \textit{not} Democratic}
+
+    \item{voters that are with \textit{no} support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score, have voted in at least one election\footnote{General 2016, General 2016, General 2018, General 2019}, \textit{not} white, and \textit{not} registered Democrats}
+
+    \item{voters that are with \textit{no} turnout score\footnote{using the 2020 Target Smart Turnout, and 2020 Clarity Turnout Score}, have a support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score of at least 50, and have voted in at least three recent elections\footnote{General 2016, General 2017, General 2018, General 2019}}
+
+    \item{voters that are registered Republicans and women, have a support\footnote{using the 2020 DLCC State House Support, 2020 Civis Partisan, and 2020 Target Smart Partisan Score} score of at least 40, and have voted in less than two elections\footnote{Primary 2014, General 2014, Primary 2015, General 2015, Primary 2016, General 2016} prior to the 2016 General Election and more than two elections\footnote{Primary 2017, General 2017, Primary 2018, General 2018, Primary 2019, General 2019} after the 2016 General Election}
+
+\end{itemize}
+
+Additionally, where support scoring is used in the persuasion target, voters with \textit{any} sub-20 support score are removed. 
+
+The master target is then split in to three tiers. These tiers can generally be described as: \\
+
+\subsection*{Tier 1}
+
+Voters meeting any combination of support score greater than 55 and less than 75, and turnout score greater than 70. This tier additionally includes all other master target subgroups. The remaining tiers \textit{only} parse out additional subsets of combinations of support and turnout scores.\\
+
+\subsection*{Tier 2}
+Voters meeting any combination of support score greater than 45 and less than 55, and turnout score greater than 70.
+
+\subsection*{Tier 3}
+Voters meeting any combination of support score greater than 35 and less than 45, and turnout score greater than 70.\\
+
+This tier is additionally used as a bucket to add custom voter subsets should a district require additional targeting work.
+
+\newpage
+\theendnotes
+
+\end{document}

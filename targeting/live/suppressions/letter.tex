@@ -1,0 +1,50 @@
+
+\documentclass[12pt]{article}
+
+\usepackage[sfdefault]{roboto}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{amsmath}
+\usepackage{algorithm2e}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{multicol}
+\usepackage{wrapfig}
+
+\usepackage{enumitem}
+
+\usepackage{titlesec}
+%%\titlespacing\section{0pt}{0pt}{0pt} 
+%%\titlespacing\subsection{0pt}{0pt}{0pt}
+%%\titlespacing\subsubsection{0pt}{0pt}{0pt}
+
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\begin{center}
+    \includegraphics[width=0.4\textwidth]{HDCC}
+\end{center}
+
+\begin{center}
+    \line(1,0){500}
+\end{center}
+
+\section*{Suppressions}
+
+Suppressions are designed to be used as an \textit{removal} 'step add' in Votebuilder after setting the intended target such that voters who match some criteria, may be removed.
+
+Suppressions additionally assume that campaigns are \textit{not} performing face-to-face canvassing operations in the field. Instead, the suppressions target assume that 'geogrpahic' based field operations do not include identification collection, or other in-person conversations. 
+
+\subsection*{Geogrpahic}
+
+Due to the aforementioned assumptions, the Geographic Suppression includes only voters marked with contacts, refusals, hostilities or other that were marked in geographic specific operations-- whether that be distributed, relational, or some other canvassing operation.
+
+\subsection*{Non-Geogrpahic}
+
+By inverse, the Non-Geogrpahic Suppresion includes only voters marked with contacts, refulsals, hostilities, or other that were marked in non-geographic specific operations-- whether that be texting, phone call, auto-dialer, relational or some other virtual field operation. 
+
+\end{document}

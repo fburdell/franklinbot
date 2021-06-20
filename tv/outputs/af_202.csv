@@ -1,0 +1,6 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+202,1673,Verizon-Philly,Comcast,942317,29979,5396.0,936921.0,99.42999999999999,0.57
+202,5283,NE Philadelphia,Comcast,270551,29938,8246.0,262305.0,96.95,3.05
+202,6500,Philadelphia Interconnect,Comcast,5067309,29979,22833.0,5044476.0,99.55000000000001,0.45
+202,9753,DirecTV- I+ Philadelphia,Comcast,5054608,29979,1606.0,5053002.0,99.97,0.03
+202,9762,DISH- I+ Philadelphia,Comcast,5066342,29979,406.0,5065936.0,99.99,0.01

@@ -1,0 +1,7 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+200,1522,University City-Manayunk,Comcast,328177,370,84.0,328093.0,99.97,0.03
+200,1673,Verizon-Philly,Comcast,915610,45887,8678.0,906932.0,99.05000000000001,0.95
+200,5284,Chestnut Hill-Mt. Airy,Comcast,134297,45517,30015.0,104282.0,77.64999999999999,22.35
+200,6500,Philadelphia Interconnect,Comcast,4974508,45887,35682.0,4938826.0,99.28,0.72
+200,9753,DirecTV- I+ Philadelphia,Comcast,4963208,45887,2943.0,4960265.0,99.94,0.06
+200,9762,DISH- I+ Philadelphia,Comcast,4974508,45887,725.0,4973783.0,99.99,0.01

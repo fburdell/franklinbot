@@ -1,0 +1,6 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+18,901,Central Bucks County,Comcast,209938,3364,1764.0,208174.0,99.16,0.84
+18,3157,Lower Bucks County,Comcast,281220,35780,22849.0,258371.0,91.88,8.12
+18,6500,Philadelphia Interconnect,Comcast,5067309,35780,26405.0,5040904.0,99.48,0.52
+18,9753,DirecTV- I+ Philadelphia,Comcast,5054608,35780,1753.0,5052855.0,99.97,0.03
+18,9762,DISH- I+ Philadelphia,Comcast,5066342,35780,484.0,5065858.0,99.99,0.01

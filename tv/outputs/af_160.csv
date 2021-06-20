@@ -1,0 +1,7 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+160,245,W Delaware County,Effectv,149019,31686,19445.0,129574.0,86.95,13.05
+160,247,E Delaware County,Effectv,390217,7921,3827.0,386390.0,99.02,0.98
+160,261,Chester County,Effectv,387091,26167,14161.0,372930.0,96.34,3.66
+160,6500,Philadelphia Interconnect,Effectv,5187621,41959,30150.0,5157471.0,99.42,0.58
+160,9753,DirecTV- I+ Philadelphia,Effectv,5159779,41959,1849.0,5157930.0,99.96000000000001,0.04
+160,9762,DISH- I+ Philadelphia,Effectv,5100659,41959,561.0,5100098.0,99.99,0.01

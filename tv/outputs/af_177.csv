@@ -1,0 +1,6 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+177,1673,Verizon-Philly,Comcast,915610,35877,6697.0,908913.0,99.27,0.73
+177,5283,NE Philadelphia,Comcast,275642,35877,10122.0,265520.0,96.33,3.67
+177,6500,Philadelphia Interconnect,Comcast,4974508,35877,27930.0,4946578.0,99.44,0.56
+177,9753,DirecTV- I+ Philadelphia,Comcast,4963208,35877,2354.0,4960854.0,99.95,0.05
+177,9762,DISH- I+ Philadelphia,Comcast,4974508,35877,574.0,4973934.0,99.99,0.01

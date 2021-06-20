@@ -1,0 +1,7 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+144,262,Upper Bucks County,Effectv,177046,26693,12201.0,164845.0,93.11,6.89
+144,901,Central Bucks County,Effectv,209043,34689,18220.0,190823.0,91.28,8.72
+144,3523,Central MontCo,Effectv,386580,1120,522.0,386058.0,99.86,0.14
+144,6500,Philadelphia Interconnect,Effectv,5187621,41492,29814.0,5157807.0,99.42999999999999,0.57
+144,9753,DirecTV- I+ Philadelphia,Effectv,5159779,41492,1829.0,5157950.0,99.96000000000001,0.04
+144,9762,DISH- I+ Philadelphia,Effectv,5100659,41492,555.0,5100104.0,99.99,0.01

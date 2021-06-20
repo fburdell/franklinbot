@@ -1,0 +1,6 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+146,262,Upper Bucks County,Comcast,120043,4003,2774.0,117269.0,97.69,2.31
+146,264,W Montgomery County,Comcast,136057,32309,26489.0,109568.0,80.53,19.47
+146,6500,Philadelphia Interconnect,Comcast,4910115,36312,28303.0,4881812.0,99.42,0.58
+146,9753,DirecTV- I+ Philadelphia,Comcast,4898776,36312,2310.0,4896466.0,99.95,0.05
+146,9762,DISH- I+ Philadelphia,Comcast,4910115,36312,567.0,4909548.0,99.99,0.01

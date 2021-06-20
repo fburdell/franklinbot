@@ -1,0 +1,6 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+165,245,W Delaware County,Comcast,110104,1883,1548.0,108556.0,98.59,1.41
+165,247,E Delaware County,Comcast,399568,42002,21083.0,378485.0,94.72,5.28
+165,6500,Philadelphia Interconnect,Comcast,4910115,42759,33328.0,4876787.0,99.32,0.68
+165,9753,DirecTV- I+ Philadelphia,Comcast,4898776,42759,2720.0,4896056.0,99.94,0.06
+165,9762,DISH- I+ Philadelphia,Comcast,4910115,42759,668.0,4909447.0,99.99,0.01

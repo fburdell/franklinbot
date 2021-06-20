@@ -1,0 +1,8 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+29,901,Central Bucks County,Effectv,209043,42513,22196.0,186847.0,89.38000000000001,10.62
+29,3157,Lower Bucks County,Effectv,279112,25021,16007.0,263105.0,94.27,5.73
+29,3523,Central MontCo,Effectv,386580,197,91.0,386489.0,99.98,0.02
+29,5282,SE Montgomery County,Effectv,118954,197,129.0,118825.0,99.89,0.11
+29,6500,Philadelphia Interconnect,Effectv,5187621,42710,30785.0,5156836.0,99.41,0.59
+29,9753,DirecTV- I+ Philadelphia,Effectv,5159779,42710,2050.0,5157729.0,99.96000000000001,0.04
+29,9762,DISH- I+ Philadelphia,Effectv,5100659,42710,574.0,5100085.0,99.99,0.01

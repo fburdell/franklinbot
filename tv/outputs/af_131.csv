@@ -1,0 +1,8 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+131,262,Upper Bucks County,Effectv,177046,7985,3650.0,173396.0,97.94,2.06
+131,264,W Montgomery County,Effectv,223088,9963,5233.0,217855.0,97.65,2.35
+131,1042,Svc Electric-Lehigh Valley,Viamedia,445335,35732,9670.0,435665.0,97.83,2.17
+131,1853,Lehigh Valley,Effectv,392213,30673,9036.0,383177.0,97.7,2.3
+131,6500,Philadelphia Interconnect,Effectv,5187621,42676,30665.0,5156956.0,99.41,0.59
+131,9753,DirecTV- I+ Philadelphia,Effectv,5159779,42676,1881.0,5157898.0,99.96000000000001,0.04
+131,9762,DISH- I+ Philadelphia,Effectv,5100659,42676,570.0,5100089.0,99.99,0.01

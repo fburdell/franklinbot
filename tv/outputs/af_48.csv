@@ -1,0 +1,9 @@
+dist_sth,sys_code,sys_name,sys_media,sys_voters,sys_voters_indist,sys_voters_satur,sys_voter_waste,sys_voter_waste_perc,sys_voter_satur_perc
+48,637,Uniontown,Comcast,225642,39512,8723.0,216919.0,96.13000000000001,3.87
+48,1290,Washington,Comcast,82614,39512,21433.0,61181.0,74.06,25.94
+48,1670,Hickory,Ad Systems,66352,43134,2431.0,63921.0,96.34,3.66
+48,2422,DirecTV- I+ Pittsburgh,Comcast,3431796,73190,8199.0,3423597.0,99.76,0.24
+48,2456,DISH- I+ Pittsburgh,Comcast,3431796,73190,3347.0,3428449.0,99.9,0.1
+48,4936,Canonsburg-South Fayette,Comcast,206864,73190,25413.0,181451.0,87.72,12.28
+48,6688,Pittsburgh Interconnect,Comcast,3579150,73190,54790.0,3524360.0,98.47,1.53
+48,9995,DISH TV- RSN Pittsburgh,Comcast,3431796,73190,3911.0,3427885.0,99.89,0.11
